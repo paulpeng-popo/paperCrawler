@@ -5,8 +5,8 @@ SCHOOLS = {
     "encoding": "utf-8",
     "delimiter": ",",
     "mode": "r",
-    "start": 76,
-    "end": 81,
+    "start": 90,
+    "end": 92,
 }
 
 HEADERS = {
